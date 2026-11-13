@@ -1,0 +1,7 @@
+﻿category,count,denominator,percent_of_full_sample
+full_main_sample,315992251,315992251,100.0
+repost_likes_below_original,311390972,315992251,98.54386334302862
+repost_likes_equal_original,4265161,315992251,1.3497675928768267
+repost_likes_above_original,336118,315992251,0.10636906409454959
+both_positive_plotted,14549974,315992251,4.604535065007021
+either_zero_not_plotted,301442277,315992251,95.39546493499297

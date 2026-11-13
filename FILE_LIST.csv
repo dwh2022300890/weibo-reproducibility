@@ -1,0 +1,69 @@
+path,purpose
+FILE_LIST.csv,Inventory of the files in this package
+README.md,English instructions and scope
+empirical_f/02_age24/actual_age_histogram.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/actual_age_quantiles.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age24_coverage.png,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age24_relations.png,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age_25_h_curve.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age_25_h_effects.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age_25_h_status.json,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age_25_h_support.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age_25_hs_curve.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age_25_hs_effects.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age_25_hs_status.json,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age_25_hs_support.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age_27_h_status.json,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age_27_h_support.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age_27_hs_status.json,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/age_27_hs_support.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/coverage_by_last_observation_heat.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/negative_fitted_means.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/observed_heat_support_descriptive.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/pre_snapshot_lag.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/sample_flow.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/02_age24/window_coverage.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/03_repost_counts/field_quality.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/03_repost_counts/negative_fitted_means.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/03_repost_counts/repost_count_relations.png,Appendix F.2–F.3 aggregate result or figure
+empirical_f/03_repost_counts/reposts_vs_h2_curve.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/03_repost_counts/reposts_vs_h2_effects.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/03_repost_counts/reposts_vs_h2_status.json,Appendix F.2–F.3 aggregate result or figure
+empirical_f/03_repost_counts/reposts_vs_h2_support.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/03_repost_counts/reposts_vs_h_curve.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/03_repost_counts/reposts_vs_h_effects.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/03_repost_counts/reposts_vs_h_status.json,Appendix F.2–F.3 aggregate result or figure
+empirical_f/03_repost_counts/reposts_vs_h_support.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/03_repost_counts/sample_flow.csv,Appendix F.2–F.3 aggregate result or figure
+empirical_f/fit_empirical.py,Appendix F.2–F.3 analysis code or status metadata
+empirical_f/model_basis.py,Appendix F.2–F.3 analysis code or status metadata
+empirical_f/plot_empirical.py,Appendix F.2–F.3 analysis code or status metadata
+empirical_f/prepare_empirical.py,Appendix F.2–F.3 analysis code or status metadata
+empirical_f/runtime_versions.json,Appendix F.2–F.3 analysis code or status metadata
+empirical_f/summarize_age.py,Appendix F.2–F.3 analysis code or status metadata
+empirical_f/task_status.csv,Appendix F.2–F.3 analysis code or status metadata
+figure1/plot_figure1.py,Standalone plotting script for revised Figure 1 / S15
+figure1/positive_like_bins.csv,Figure 1 / S15 aggregated input
+figure1/recalculate.py,Upstream Figure 1 recalculation; restricted analysis inputs required
+figure1/sample_summary.csv,Figure 1 / S15 aggregated input
+figure2a/density_cells.csv,"Figure 2(a) aggregate, reference panel or upstream script"
+figure2a/figure2a.png,"Figure 2(a) aggregate, reference panel or upstream script"
+figure2a/plot_figure2a.py,"Figure 2(a) aggregate, reference panel or upstream script"
+figure2a/reconciliation.csv,"Figure 2(a) aggregate, reference panel or upstream script"
+sir_d6/common_rate_NO_NR.png,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/common_rate_NO_bands.csv,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/common_rate_NO_bins.csv,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/common_rate_paired.csv,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/common_rate_points.csv,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/common_rate_shape.csv,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/common_rate_trials.csv,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/fixed_rate_comparison.png,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/fixed_rate_paired.csv,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/fixed_rate_points.csv,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/fixed_rate_trials.csv,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/locked_NO_bands.csv,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/locked_parameters.csv,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/run.py,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/simulate.py,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+sir_d6/summarize.py,"Appendix D.6 simulation, fixed/increasing M design, output or figure"
+snapshot_match_coverage_by_last_capture_heat.csv,Appendix B.2 matched counts and coverage by last-capture heat

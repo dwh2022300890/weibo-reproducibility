@@ -1,0 +1,4 @@
+﻿band,lower,upper_exclusive
+low,0,300
+middle,300,600
+high,600,920
